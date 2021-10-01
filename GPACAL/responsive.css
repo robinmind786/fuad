@@ -1,0 +1,16 @@
+@media only screen and (max-width: 600px) {
+  .topnav {
+    width: 320px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    white-space: nowrap;
+    margin-left: 10px;
+    margin-right: 10px;
+    justify-content: center;
+  }
+  .topnav a {
+   padding: 4px 10px;
+   font-size: 14px;
+  }
+}
